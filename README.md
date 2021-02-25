@@ -3,6 +3,10 @@ react-s3-uploader
 
 Provides a `React` component that automatically uploads to an S3 Bucket.
 
+Note
+----------
+This repo was forked from @DemitryT who made a fix in response to [this issue](https://github.com/odysseyscience/react-s3-uploader/issues/219), which we saw as well.
+
 Install
 -----------
 ```bash
@@ -237,3 +241,4 @@ module.exports = (req, res) => {
 ##### Other Servers
 
 If you do some work on another server, and would love to contribute documentation, please send us a PR!
+
